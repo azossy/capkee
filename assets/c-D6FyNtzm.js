@@ -1,0 +1,1 @@
+function n(n,t,i){return"diagnostics"===n&&"diagnostics"===t&&null!==i}function t(n,t,i){return n&&t&&!i}function i(n){return"key-input-original"===n}export{i as n,n as r,t};
