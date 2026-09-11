@@ -1,0 +1,1 @@
+var e={name:"Capkee",vendorUrl:""};export{e as t};

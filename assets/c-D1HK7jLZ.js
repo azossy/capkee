@@ -1,0 +1,1 @@
+import{$ as t,F as a,It as s,St as c,Y as e,lt as i,st as l,yt as r}from"./c-BRywewlm.js";import"./c-BvIhFN19.js";var n=i("<section><!></section>");function o(i,o){let v=a(o,"tone",3,"default");var f=n();let m;var p=c(f);t(p,()=>o.children),s(f),r(()=>m=e(f,1,"svelte-7d5xe5",null,m,{accent:"accent"===v(),critical:"critical"===v()})),l(i,f)}export{o as t};

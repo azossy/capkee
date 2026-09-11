@@ -1,0 +1,1 @@
+var a={schema:"capkee.site-downloads/1",releases:[{platform:"windows",status:"preparing"},{platform:"macos",status:"preparing"},{platform:"linux",status:"preparing"}]};export{a as default};

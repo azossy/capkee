@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Capkee">
+  <!-- White mark on black. A tile rather than a bare mark, because a tab strip
+       is whatever colour the browser chrome is and a bare white mark vanishes
+       on a light one. -->
+  <rect width="64" height="64" rx="14" fill="#0d0d0c"/>
+  <g fill="#ffffff" transform="translate(9 24.3) scale(1.5333)"><rect x="0" y="0" width="11.8" height="10" rx="3.25"/><rect x="18.2" y="0" width="11.8" height="10" rx="3.25"/><rect x="12.2" y="3.1" width="5.6" height="3.8" rx="1.9"/></g>
+</svg>

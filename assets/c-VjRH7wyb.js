@@ -1,0 +1,1 @@
+var e=Object.freeze({mediaKeys:!0,holdToEnter:!0,mediaMinimumVersion:"0.10",entryMinimumVersion:"0.11"});export{e as t};

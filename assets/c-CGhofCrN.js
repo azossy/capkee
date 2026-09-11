@@ -1,0 +1,1 @@
+import{F as t}from"./c-BRywewlm.js";import"./c-BvIhFN19.js";import{t as r}from"./c-BWUpnbnC.js";function e(e,s){let o=t(s,"size",3,20);r(e,{get name(){return s.name},get size(){return o()}})}export{e as t};

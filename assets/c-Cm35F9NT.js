@@ -1,0 +1,1 @@
+import{T as t}from"./c-BRywewlm.js";var e=Object.freeze({...Object.fromEntries(t.current.map(t=>[t.platform,t.minimum])),webkit:t.linux.webKitGtkMinimum});function i(e){return{key:e.requirementsKey??"public.updates.minimumOs",params:{version:e.minimum,webkit:t.linux.webKitGtkMinimum}}}export{i as n,e as t};
