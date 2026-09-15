@@ -1,0 +1,1 @@
+var e=Symbol(`capkee.app-presentation`);export{e as t};

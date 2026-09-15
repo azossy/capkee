@@ -1,0 +1,1 @@
+import{A as e,K as t,M as n,S as r,ct as i}from"./index-client-CqffJhu4.js";import"./disclose-version-xihTtKlq.js";var a=n(`<div class="action-group svelte-8c3uzs"><!></div>`);function o(n,o){var s=a(),c=t(s);r(c,()=>o.children),i(s),e(n,s)}export{o as t};

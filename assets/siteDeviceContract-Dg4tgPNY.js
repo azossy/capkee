@@ -1,0 +1,1 @@
+var e=6790,t=65376,n=[{vendorId:e,usagePage:t,usage:97},{vendorId:e}],r=4097,i=58371,a={USB:`usb`,WIRELESS_24G:`2.4g`,ISP:`isp`},o={[a.ISP]:3,[a.USB]:2,[a.WIRELESS_24G]:1},s=4e3,c=Object.freeze({keymap:!1,macros:!1,lighting:!1,diagnostics:!1,update:!1,factoryReset:!1,activeLayer:!1});export{s as a,i as c,o as i,e as l,t as n,n as o,a as r,r as s,c as t};

@@ -1,0 +1,1 @@
+import{r as e}from"./betaAnnouncementLifecycle-D3wyYsRp.js";export{e as createBetaAnnouncementLifecycle};

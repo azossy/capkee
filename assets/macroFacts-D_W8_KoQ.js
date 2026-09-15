@@ -1,0 +1,1 @@
+var e=Object.freeze({slotCount:3,totalStepCapacity:11,trigger:`tap-to-completion`});export{e as t};

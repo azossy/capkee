@@ -1,0 +1,1 @@
+import{ot as e}from"./index-client-CqffJhu4.js";e();
