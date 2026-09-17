@@ -1,0 +1,1 @@
+import{j as e}from"./i18n.svelte-BKIJBBHk.js";var t=Object.freeze({...Object.fromEntries(e.current.map(e=>[e.platform,e.minimum])),webkit:e.linux.webKitGtkMinimum});function n(t){return{key:t.requirementsKey??`public.updates.minimumOs`,params:{version:t.minimum,webkit:e.linux.webKitGtkMinimum}}}export{n,t};
