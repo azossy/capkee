@@ -1,0 +1,1 @@
+import{A as e,K as t,M as n,S as r,U as i,ct as a,r as o,v as s}from"./index-client-CqffJhu4.js";import"./disclose-version-xihTtKlq.js";var c=n(`<section><!></section>`);function l(n,l){let u=o(l,`tone`,3,`default`);var d=c();let f;var p=t(d);r(p,()=>l.children),a(d),i(()=>f=s(d,1,`svelte-7d5xe5`,null,f,{accent:u()===`accent`,critical:u()===`critical`})),e(n,d)}export{l as t};

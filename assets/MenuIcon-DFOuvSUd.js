@@ -1,0 +1,1 @@
+import{r as e}from"./index-client-CqffJhu4.js";import"./disclose-version-xihTtKlq.js";import{t}from"./NavIcon-B6JE7l8v.js";function n(n,r){let i=e(r,`size`,3,20);t(n,{get name(){return r.name},get size(){return i()}})}export{n as t};

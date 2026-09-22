@@ -1,0 +1,22 @@
+{
+  "version": "0.9.10",
+  "entryKeyMarker": "A1_P14_LOADER_ENTRY_KEY_PRODUCTION",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://capkee.io/beta-artifacts/apps/0.9.10/Capkee_0.9.10_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTStkSXNCOEsvVlpUayswUjdxWmtPM2tSYnN3ckFQU21hVzFaQkJUWndSK2xzN3ZJOCtRUWpFK3Irc29Gbk9BelJ3TVo4SWFSdC95WEJHeTFJb3pxNU5XMm5zOGRXNVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDUxNjE4CWZpbGU6Q2Fwa2VlXzAuOS4xMF91bml2ZXJzYWwuYXBwLnRhci5negpxQ2M0TFJKRWtlNyt6c0R5RFl6TjF1cGl0UkN1ZFJZZkxLaC9VYXB4TXNMN3d5bnZoY2REUVgwbkpwcjVnREdLdTRlZTBsSE80em5odDJTbkF4UDlBQT09Cg=="
+    },
+    "darwin-x86_64": {
+      "url": "https://capkee.io/beta-artifacts/apps/0.9.10/Capkee_0.9.10_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTStkSXNCOEsvVlpUayswUjdxWmtPM2tSYnN3ckFQU21hVzFaQkJUWndSK2xzN3ZJOCtRUWpFK3Irc29Gbk9BelJ3TVo4SWFSdC95WEJHeTFJb3pxNU5XMm5zOGRXNVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDUxNjE4CWZpbGU6Q2Fwa2VlXzAuOS4xMF91bml2ZXJzYWwuYXBwLnRhci5negpxQ2M0TFJKRWtlNyt6c0R5RFl6TjF1cGl0UkN1ZFJZZkxLaC9VYXB4TXNMN3d5bnZoY2REUVgwbkpwcjVnREdLdTRlZTBsSE80em5odDJTbkF4UDlBQT09Cg=="
+    },
+    "linux-x86_64": {
+      "url": "https://capkee.io/beta-artifacts/apps/0.9.10/Capkee_0.9.10_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTStkSXNCOEsvVldOUVA5SmxObk1WcFA2ZjByM2VLWkc0ZnErQ21lWERJL1VNdTBVYnlqUjlxMUpYaW9naEtZNC8rZmVFbmVRVkIyTGg1MWRkWkRaQlF3NkVNbDl4YncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDUzODkzCWZpbGU6Q2Fwa2VlXzAuOS4xMF9hbWQ2NC5BcHBJbWFnZQoxd2V6L01TT1pDUXBqQVcwdDBEOEhvaU5sZWMyTXRhVUVBUEdNUFowSU05NlJlbktZWUZpS0l4VkJ1UEpTYTJkRGpjV1JScDFGQ2Q1bTJEQkxOSnNDdz09Cg=="
+    },
+    "windows-x86_64": {
+      "url": "https://capkee.io/beta-artifacts/apps/0.9.10/Capkee_0.9.10_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTStkSXNCOEsvVldzbkRPT0RWdnFBdVN5aTB0dkg0RTJ6ak9BbDBTNlp2Nk1sdG9hRUpHaG5Ea0tCdS9QczJzd3BVMitEMjQrUVRPb09PL2RvVi80ME40SkxJVmtRenc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDUyNzk0CWZpbGU6Q2Fwa2VlXzAuOS4xMF94NjRfZW4tVVMubXNpCnNTQUVYVmdjWVZOZWo4UzY4SHJzbjVaUm1PckpMTGo0RHNzT2MyQ3VweWlYN3h5TjNhZllVUVZiYk1lRjJybmQ4dm9idHJvSFdoT3Njbng4a2hoT0JnPT0K"
+    }
+  }
+}

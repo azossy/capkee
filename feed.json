@@ -1,0 +1,18 @@
+{
+  "feedVersion": 1,
+  "firmware": [
+    {
+      "version": "0.12.0-session-lease-candidate",
+      "modelId": "CAPKEE_3KEY_MULTI",
+      "channel": "Beta",
+      "url": "https://capkee.io/beta-artifacts/firmware/0.12.0-session-lease-candidate/capkee-a1-session-beta.capkee-firmware.json",
+      "publishedAt": "2026-09-13",
+      "package": {
+        "url": "https://capkee.io/beta-artifacts/firmware/0.12.0-session-lease-candidate/capkee-a1-session-beta.capkee-firmware.json",
+        "sha256": "548bcf501645d0399db68ad1a885d46564afa82dcec874762be141b09429b17f",
+        "byteLength": 78733
+      }
+    }
+  ],
+  "news": []
+}

@@ -1,0 +1,18 @@
+{
+  "version": "0.9.6",
+  "entryKeyMarker": "A1_P14_LOADER_ENTRY_KEY_PRODUCTION",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://capkee.io/beta-artifacts/apps/0.9.6/Capkee_0.9.6_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTStkSXNCOEsvVmRpSmRlYThuWWdkSkZjSm1yemU2WVpsZkZiOXdlckRCVTFGdFhJVFZUWmhYR2tTSGNYdVJoT3o3cWdVVVhpWmhsWkFCSUlFSEczOGRBdXV0RFd4SVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjEzNTk4CWZpbGU6Q2Fwa2VlXzAuOS42X3VuaXZlcnNhbC5hcHAudGFyLmd6CmljVUtiT3NnT1hQTWo0NnRlYU1aVnRuaUV5MHQ5a1p3djRPTTFveFFTek14ekVtNTRIbHlCTFlualRzaUFWSm9sb2dPbTJCd2orNndLaGRpVEJhSEJRPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://capkee.io/beta-artifacts/apps/0.9.6/Capkee_0.9.6_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTStkSXNCOEsvVmRpSmRlYThuWWdkSkZjSm1yemU2WVpsZkZiOXdlckRCVTFGdFhJVFZUWmhYR2tTSGNYdVJoT3o3cWdVVVhpWmhsWkFCSUlFSEczOGRBdXV0RFd4SVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjEzNTk4CWZpbGU6Q2Fwa2VlXzAuOS42X3VuaXZlcnNhbC5hcHAudGFyLmd6CmljVUtiT3NnT1hQTWo0NnRlYU1aVnRuaUV5MHQ5a1p3djRPTTFveFFTek14ekVtNTRIbHlCTFlualRzaUFWSm9sb2dPbTJCd2orNndLaGRpVEJhSEJRPT0K"
+    },
+    "linux-x86_64": {
+      "url": "https://capkee.io/beta-artifacts/apps/0.9.6/Capkee_0.9.6_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTStkSXNCOEsvVmRIQVRnRk50Zkl0dWtWaTlFNzVJWTN4WHNxSm1wVGhKZTlRbXM1MkFUWFpjQXl0aXI1RGNWdHBGNElTS1MwK2Yvdk1MeDREaXVzYW5lVytDTVpLZkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjE0Mzk4CWZpbGU6Q2Fwa2VlXzAuOS42X2FtZDY0LkFwcEltYWdlCmZHUVFGaVNMd3Fzek9TSHVaYnRVZVdKNGJnbzFvb3pqV1NaS1ZRL1Nwbk53RzJzcjdaZU5SZDJRZ0JvNjdqbm9GT1R5Zi95K3czcGgvejRXK3UzeEJ3PT0K"
+    }
+  }
+}

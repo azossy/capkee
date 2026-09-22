@@ -1,0 +1,1 @@
+var e=new Set,t=new Set,n=new Set([`2.0.1`]);function r(r){let i=r?.firmwareVersion??``;return{programmableLighting:e.has(i),factoryReset:t.has(i),reactiveLighting:n.has(i)}}function i(e){return r(e).programmableLighting}function a(e){return r(e).factoryReset}export{i as n,a as t};

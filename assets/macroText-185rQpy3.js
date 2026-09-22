@@ -1,0 +1,1 @@
+function e(e){return[...e].every(e=>{let t=e.charCodeAt(0);return t>=32&&t<=126})}function t(t){return e(t)?[...t].map(e=>e.charCodeAt(0)):null}export{e as n,t};

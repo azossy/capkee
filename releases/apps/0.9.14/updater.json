@@ -1,0 +1,10 @@
+{
+  "version": "0.9.14",
+  "entryKeyMarker": "A1_P14_LOADER_ENTRY_KEY_PRODUCTION",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://capkee.io/beta-artifacts/apps/0.9.14/Capkee_0.9.14_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTStkSXNCOEsvVlNqMjB4MVgwUHNqNXorai9yaDNMYzE2ZkFqOXU1WlUyczVFR3RBYVJDeFVaK3AxaGJ4Zk04N2orUXlCQWZQY2ZuOVBONDVORHJ4YkVNemM5SE9kTHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDc2Njc0CWZpbGU6Q2Fwa2VlXzAuOS4xNF94NjRfZW4tVVMubXNpCnRVSytwVy9WN2dqN3ZwSWd4VUYwcHdWU0dFTXUvc0Y2d2hqSUs1QXZUaWJwZjVvaVQwV1Y0UFZmSEl2UWg3MXpDb2JjQ01lQjhBNElWK3FuQ09VL0RnPT0K"
+    }
+  }
+}
